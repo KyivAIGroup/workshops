@@ -2,3 +2,4 @@
 #torchvision==0.2.1
 tqdm==4.28.1
 numpy==1.15.3
+mnist==0.2.2
